@@ -462,51 +462,5 @@
       "restaurantId": "9"
     }
   ],
-  "cart": [
-    {
-      "id": "7e9dcf62-158b-43d9-abca-92bb93b31e72",
-      "productId": "1",
-      "title": "Izgara Somon",
-      "price": 45.99,
-      "photo": "../src/assets/img/products/somon.jpg",
-      "restaurantName": "Lezzetin Tadı",
-      "amount": 1
-    },
-    {
-      "id": "b6c23d5b-39ab-4486-bb61-90b50c0295ed",
-      "productId": "5",
-      "title": "Tavuk Kebabı",
-      "price": 17.99,
-      "photo": "../src/assets/img/products/tavukkebabi.jpg",
-      "restaurantName": "Lezzetin Tadı",
-      "amount": 1
-    },
-    {
-      "id": "78dc645d-b129-4970-bc2d-b0ac5b8329c2",
-      "productId": "14",
-      "title": "İtalyan Salata",
-      "price": 8.49,
-      "photo": "../src/assets/img/products/italyansalata.jpg",
-      "restaurantName": "İtalyan Mutfağı",
-      "amount": 1
-    },
-    {
-      "id": "de536e91-12fb-41f9-9764-3a550146ef47",
-      "productId": "9",
-      "title": "Fırın Makarna",
-      "price": 10.99,
-      "photo": "../src/assets/img/products/firinmakarna.jpg",
-      "restaurantName": "İtalyan Mutfağı",
-      "amount": 1
-    },
-    {
-      "id": "16b332be-2923-435b-8a95-7e305de85b11",
-      "productId": "19",
-      "title": "Margarita Pizza",
-      "price": 12.99,
-      "photo": "../src/assets/img/products/pizza.jpg",
-      "restaurantName": "İtalyan Mutfağı",
-      "amount": 1
-    }
-  ]
+  "cart": []
 }
